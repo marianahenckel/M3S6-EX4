@@ -1,0 +1,309 @@
+.coluna1{
+    
+    font-family: 'Inter';
+    width: 310px;
+}
+
+.linha{
+    position: absolute;
+    width: 1px;
+    height: 842px;
+    left: 401px;
+    top: 0px;
+}
+#foto{
+    position: absolute;
+    height: 50px;
+    width: 50px;
+    left: 40px;
+    top: 40px;
+    border-radius: 10px;
+    margin: 10px;
+
+}
+#nome{
+    position: absolute;
+    width: 187px;
+    height: 50px;
+    left: 106px;
+    top: 32px;
+    font-family: 'Plus Jakarta Sans';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 28px;
+    line-height: 28px;
+    color: #001737;
+}
+#funcao{
+    position: absolute;
+    left: 106px;
+    top: 73px;
+    font-size: 13px;
+    color: #405169;
+    font-weight: 400;
+    opacity: 0.75;
+    display: flex;
+    align-items: center;
+    line-height: 13px;
+}
+#descricao{
+    position: absolute;
+    left: 40px;
+    top: 106px;
+    border-radius: nullpx;
+    height: 56px;
+    width: 310px;
+    font-size: 9px;
+    font-weight: 400;
+    color: #405169;
+    line-height: 14px;
+
+}
+.coluna2{
+    font-family: 'Inter';
+    height: 28px;
+    width: 259px;
+    left: 40px;
+    border-radius: nullpx;
+    font-size: 9px;
+
+}
+.titulo{
+    position: absolute;
+    font-size: 14px;
+    font-family: 'Plus Jakarta Sans';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 18px;
+    left: 40px;
+    color: #001737;
+}
+#exp{
+    top: 202px;
+}
+#edu{
+    top: 648px;
+}
+.logos{
+    position: absolute;
+    height: 24px;
+    width: 24px;
+    left: 40px;
+    border-radius: 10px;
+    margin: 10px 0px;
+}
+#logoG{
+    top: 244px;
+}
+#logoSen{
+    top: 320px;
+}
+#logoMac{
+    top: 396px;
+}
+#logoStar{
+    top: 472px;
+}
+#logoBelle{
+    top: 548px;
+}
+#logoSPD{
+    top: 694px;
+}
+#logoUM{
+    top: 742px;
+}
+.empresas{
+    position: absolute;
+    font-family: Inter;
+    font-size: 11px;
+    font-weight: 500;
+    line-height: 11px;
+    letter-spacing: 0em;
+    text-align: left;
+    left: 80px;
+    color: #001737;
+    bottom: 80%;
+}
+#idtituloCor{
+    top: 244px;
+}
+#idtituloS{
+    top: 320px;
+}
+#idtituloG{
+   top: 396px; 
+}
+#idtituloGD{
+    top: 472px;
+}
+#idtituloGB{
+    top: 548px;
+}
+#SPDScool{
+    top: 694px;
+}
+#UMScool{
+    top: 742px;
+}
+.tempo{
+    position: absolute;
+    font-family: 'Inter';
+    font-size: 9px;
+    font-weight: 500;
+    line-height: 11px;
+    letter-spacing: 0em;
+    text-align: left;
+    height: 10px;
+    width: 301px;
+    left: 80px;
+    border-radius: nullpx;
+    color: #7F8A9A;
+}
+#tempo1{
+   top: 258px; 
+}
+#tempo2{
+    top: 334px;
+}
+#tempo3{
+    top: 410px;
+}
+#tempo4{
+    top: 486px;
+}
+#tempo5{
+    top: 562px;
+}
+#tempo6{
+    top: 708px;
+}
+#tempo7{
+    top: 756px;
+}
+.resume{
+    position: absolute;
+    font-family: Inter;
+    font-size: 9px;
+    font-weight: 400;
+    line-height: 13px;
+    letter-spacing: 0em;
+    text-align: left;
+    height: 28px;
+    width: 259px;
+    left: 80px;
+    border-radius: nullpx;
+}
+#descri1{
+    top: 276px;
+}
+#descri2{
+    top: 352px;
+}
+#descri3{
+    top: 428px; 
+}
+#descri4{
+    top: 504px;
+}
+#descri5{
+    top: 580px;
+}
+.coluna3{
+    left: 422px;
+    width: 130px;
+    height: 18px; 
+}
+.titulos{
+    position: absolute;
+    font-family: 'Plus Jakarta Sans';
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 17.64px;
+    left: 422px;
+    width: 130px;
+    height: 18px; 
+}
+#details{
+top: 40px;
+}
+#linguas{
+    top: 171px;
+}
+#mainS{
+    top: 302px;
+}
+#reco{
+    top: 467px;
+}
+.texto{
+    position: absolute;
+    font-family: 'Inter';
+    font-size: 9px;
+    font-weight: 500;
+    line-height: 15px; 
+    left: 422px;
+    width: 130px;
+    height: 18px;  
+}
+#site{
+    top: 82px;
+    text-decoration: underline;
+}
+#email{
+    top: 99px;
+    
+}
+#telefone{
+    top: 116px;
+}
+#Eng{
+    top: 213px;  
+}
+.colorido{
+    color: #7F8A9A;
+}
+#Spa{
+   top: 230px; 
+}
+#Ita{
+    top: 247px;
+}
+#Team{
+    top: 344px;
+}
+#Problem{
+   top: 361px; 
+}
+#Business{
+    top: 378px;
+}
+#Brand{
+    top: 395px;
+}
+#Graphic{
+    top: 412px;
+}
+#recomendacao1{
+    top: 509px;
+}
+#recome1{
+    top: 588px;
+    color: #7F8A9A;
+}
+#recome2{
+    top: 721px;
+    color: #7F8A9A;
+}
+#recomendacao2{
+    top: 642px;
+}
+#link{
+    position: absolute;
+    top: 775px;
+    left: 422px;
+    text-decoration: underline;
+    font-size: 9px;
+    color: #001737;
+}
